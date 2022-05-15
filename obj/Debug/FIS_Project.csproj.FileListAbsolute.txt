@@ -1,0 +1,46 @@
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\bin\Debug\FIS_Project.exe.config
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\bin\Debug\FIS_Project.exe
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\bin\Debug\FIS_Project.pdb
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\obj\Debug\FIS_Project.exe
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\obj\Debug\FIS_Project.pdb
+C:\Users\alexa\OneDrive\Desktop\Proiect Final\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Login.resources
+D:\FIS_Project\FIS_Project\bin\Debug\FIS_Project.exe.config
+D:\FIS_Project\FIS_Project\bin\Debug\FIS_Project.exe
+D:\FIS_Project\FIS_Project\bin\Debug\FIS_Project.pdb
+D:\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.AssemblyReference.cache
+D:\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.SuggestedBindingRedirects.cache
+D:\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Login.resources
+D:\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Properties.Resources.resources
+D:\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.GenerateResource.cache
+D:\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.CoreCompileInputs.cache
+D:\FIS_Project\FIS_Project\obj\Debug\FIS_Project.exe
+D:\FIS_Project\FIS_Project\obj\Debug\FIS_Project.pdb
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\bin\Debug\FIS_Project.exe.config
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\bin\Debug\FIS_Project.exe
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\bin\Debug\FIS_Project.pdb
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Login.resources
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Register.resources
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.exe
+C:\Users\alexa\OneDrive\Desktop\Fin\FIS_Project\FIS_Project\obj\Debug\FIS_Project.pdb
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.AssemblyReference.cache
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Login.resources
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Properties.Resources.resources
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.Register.resources
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.GenerateResource.cache
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.csproj.CoreCompileInputs.cache
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.exe
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\obj\Debug\FIS_Project.pdb
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\bin\Debug\FIS_Project.exe.config
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\bin\Debug\FIS_Project.exe
+C:\Users\alexa\OneDrive\Desktop\Copy\FIS_Project\FIS_Project\bin\Debug\FIS_Project.pdb
